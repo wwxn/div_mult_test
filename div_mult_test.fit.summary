@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Jun 08 11:57:56 2019
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Full Version
+Revision Name : div_mult_test
+Top-level Entity Name : div_mult_test
+Family : Cyclone II
+Device : EP2C5T144C8
+Timing Models : Final
+Total logic elements : 187 / 4,608 ( 4 % )
+    Total combinational functions : 187 / 4,608 ( 4 % )
+    Dedicated logic registers : 0 / 4,608 ( 0 % )
+Total registers : 0
+Total pins : 72 / 89 ( 81 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 2 / 26 ( 8 % )
+Total PLLs : 0 / 2 ( 0 % )
